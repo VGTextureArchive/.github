@@ -1,0 +1,15 @@
+{
+  "input": "./gallery",
+  "output": "./build_output",
+  "title": "Texture Gallery",
+  "sort-albums-by": "start-date",
+  "album-previews": "random",
+  "album-zip-files": true,
+  "sort-media-by": "filename",
+  "download-photos": "copy",
+  "cleanup": true,
+  "theme": "cards",
+  "css": ".github/config/custom.css",
+  "footer": "",
+  "usage-stats": false
+}
